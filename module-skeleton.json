@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-executive-insights-5279400e-dart-mobile",
+  "capabilityKey": "liberusoftware/module-liberu-executive-insights",
+  "presentation": "dart-mobile",
+  "package": "module_module_liberu_executive_insights_5279400e_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-executive-insights.md",
+  "presentationPlan": "projects/accounting/features/liberu-executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
